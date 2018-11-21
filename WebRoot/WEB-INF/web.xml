@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserServlet</servlet-name>
+    <servlet-class>cn.jxau.user.web.servlet.UserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>cn.jxau.user.web.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>cn.jxau.user.web.servlet.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>HlsqzServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.HlsqzServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JzdzzServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.JzdzzServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JzjfcfServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.JzjfcfServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Jzjfcf2Servlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.Jzjfcf2Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SxnjzServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.SxnjzServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JzdtzzServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.JzdtzzServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>QjzdzServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.QjzdzServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TlsqServlet</servlet-name>
+    <servlet-class>cn.jxau.user.web.servlet.TlsqServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>QuestionServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.QuestionServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdminLoginServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.AdminLoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FindUserServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.FindUserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.AddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DeleteServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.DeleteServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.UpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateServlet2</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.UpdateServlet2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JxxfczServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.JxxfczServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>XxxgServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.XxxgServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Pdjzxs</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.Pdjzxs</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PdjzxsServlet</servlet-name>
+    <servlet-class>cn.jxau.web.function.servlet.PdjzxsServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Download1Servlet</servlet-name>
+    <servlet-class>cn.jxau.user.download.servlet.Download1Servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UploadServlet</servlet-name>
+    <servlet-class>cn.jxau.admin.servlet.UploadServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>UserServlet</servlet-name>
+    <url-pattern>/UserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/RegisterServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HlsqzServlet</servlet-name>
+    <url-pattern>/HlsqzServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JzdzzServlet</servlet-name>
+    <url-pattern>/JzdzzServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JzjfcfServlet</servlet-name>
+    <url-pattern>/JzjfcfServlet</url-pattern>
+  </servlet-mapping>	
+  <servlet-mapping>
+    <servlet-name>Jzjfcf2Servlet</servlet-name>
+    <url-pattern>/Jzjfcf2Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SxnjzServlet</servlet-name>
+    <url-pattern>/SxnjzServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JzdtzzServlet</servlet-name>
+    <url-pattern>/JzdtzzServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>QjzdzServlet</servlet-name>
+    <url-pattern>/QjzdzServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TlsqServlet</servlet-name>
+    <url-pattern>/TlsqServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>QuestionServlet</servlet-name>
+    <url-pattern>/QuestionServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdminLoginServlet</servlet-name>
+    <url-pattern>/AdminLoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FindUserServlet</servlet-name>
+    <url-pattern>/FindUserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddServlet</servlet-name>
+    <url-pattern>/AddServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeleteServlet</servlet-name>
+    <url-pattern>/DeleteServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateServlet</servlet-name>
+    <url-pattern>/UpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateServlet2</servlet-name>
+    <url-pattern>/UpdateServlet2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JxxfczServlet</servlet-name>
+    <url-pattern>/JxxfczServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>XxxgServlet</servlet-name>
+    <url-pattern>/XxxgServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Pdjzxs</servlet-name>
+    <url-pattern>/Pdjzxs</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PdjzxsServlet</servlet-name>
+    <url-pattern>/PdjzxsServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Download1Servlet</servlet-name>
+    <url-pattern>/Download1Servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UploadServlet</servlet-name>
+    <url-pattern>/UploadServlet</url-pattern>
+  </servlet-mapping>	
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <filter>
+  	<filter-name>AdminFilter</filter-name>
+  	<filter-class>cn.jxau.filter.AdminFilter</filter-class>
+  </filter>
+  <filter-mapping>
+  	<filter-name>AdminFilter</filter-name>
+  	<url-pattern>/adminindex.jsp</url-pattern>
+  	<url-pattern>/findalluser.jsp</url-pattern>
+  	<url-pattern>/finduser.jsp</url-pattern>
+  	<url-pattern>/deletequestion.jsp</url-pattern>
+  	<url-pattern>/updateuser.jsp</url-pattern>
+  	<url-pattern>/wdgl.jsp</url-pattern>
+  </filter-mapping>
+  <filter>
+  	<filter-name>UserFilter</filter-name>
+  	<filter-class>cn.jxau.filter.UserFilter</filter-class>
+  </filter>
+  <filter-mapping>
+  	<filter-name>UserFilter</filter-name>
+  	<url-pattern>/HlsqzServlet</url-pattern>
+  	<url-pattern>/Download1Servlet</url-pattern>
+  	<url-pattern>/JzdtzzServlet</url-pattern>
+  	<url-pattern>/JzdzzServlet</url-pattern>
+  	<url-pattern>/JzjfcfServlet</url-pattern>
+  	<url-pattern>/Jzjfcf2Servlet</url-pattern>
+  	<url-pattern>/PdjzxsServlet</url-pattern>
+  	<url-pattern>/QjzdzServlet</url-pattern>
+  	<url-pattern>/QuestionServlet</url-pattern>
+  	<url-pattern>/SxnjzServlet</url-pattern>
+  	<url-pattern>/XxxgServlet</url-pattern>
+  </filter-mapping>
+</web-app>
